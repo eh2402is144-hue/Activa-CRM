@@ -1,6 +1,6 @@
 Sistema web para la gestión de clientes y proyectos
 
-Activa CRM es un proyecto académico orientado al diseño de un sistema web que centraliza la información de clientes, proyectos, tareas y su seguimiento.
+Activa CRM es un proyecto orientado al diseño de un sistema web que centraliza la información de clientes, proyectos, tareas y su seguimiento.
 
 Objetivo
 Diseñar un prototipo que facilite la consulta y administración de clientes, la asignación de responsables y el seguimiento del avance de los proyectos.
