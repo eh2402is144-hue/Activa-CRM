@@ -1,0 +1,1 @@
+Prototipo de CRM web que centraliza la información básica de clientes y el seguimiento de proyectos y tareas, incorporando una función sencilla de recomendación para identificar posibles retrasos a partir de fechas y estados registrados.
